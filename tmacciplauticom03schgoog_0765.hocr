@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tmacciplauticom03schgoog_0765.png"; bbox 0 0 810 1923; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 76 262 572 392">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 76 262 572 392">
+     <span class='ocr_line' id='line_1_1' title="bbox 76 262 572 392; baseline 0 1531"><span class='ocrx_word' id='word_1_1' title='bbox 76 262 572 392; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 237 842 516 863">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 237 842 516 863">
+     <span class='ocr_line' id='line_1_2' title="bbox 237 842 516 863; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 237 842 516 863; x_wconf 58' lang='lat' dir='ltr'><strong>TMAOGLPLAVTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 279 900 474 934">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 279 900 474 934">
+     <span class='ocr_line' id='line_1_3' title="bbox 279 900 474 934; baseline 0.005 -1"><span class='ocrx_word' id='word_1_3' title='bbox 279 900 474 934; x_wconf 82' lang='lat' dir='ltr'>CASINA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 193 970 560 987">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 193 970 560 987">
+     <span class='ocr_line' id='line_1_4' title="bbox 193 970 560 987; baseline 0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 193 970 281 987; x_wconf 70' lang='lat' dir='ltr'>GRAECA</span> <span class='ocrx_word' id='word_1_5' title='bbox 291 980 293 982; x_wconf 98' lang='lat'>-</span> <span class='ocrx_word' id='word_1_6' title='bbox 301 970 452 987; x_wconf 75' lang='lat' dir='ltr'>CLERVMENOE</span> <span class='ocrx_word' id='word_1_7' title='bbox 461 980 464 983; x_wconf 92' lang='lat'>·</span> <span class='ocrx_word' id='word_1_8' title='bbox 473 971 560 987; x_wconf 83' lang='lat' dir='ltr'>DIPHILV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 365 1069 666 1135">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 365 1069 666 1135">
+     <span class='ocr_line' id='line_1_5' title="bbox 365 1069 666 1135; baseline 0 788"><span class='ocrx_word' id='word_1_9' title='bbox 365 1069 666 1135; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
